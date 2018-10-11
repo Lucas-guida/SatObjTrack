@@ -17,4 +17,6 @@ public:
 	TrackedObj(int cx, int cy, double cz);
 
 	~TrackedObj();
+
+	static double ranging() {}
 };

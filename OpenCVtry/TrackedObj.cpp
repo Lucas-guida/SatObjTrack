@@ -21,3 +21,7 @@ TrackedObj::TrackedObj(int cx, int cy, double cz)
 TrackedObj::~TrackedObj()
 {
 }
+
+static double ranging() {
+
+}
