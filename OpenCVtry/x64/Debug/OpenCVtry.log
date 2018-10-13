@@ -1,11 +1,11 @@
 ﻿  OpenCVtry.cpp
-c:\users\lucas\source\repos\objtrack\opencvtry\opencvtry.cpp(137): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\lucas\source\repos\objtrack\opencvtry\opencvtry.cpp(153): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+c:\users\lucas\source\repos\objtrack\opencvtry\opencvtry.cpp(141): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lucas\source\repos\objtrack\opencvtry\opencvtry.cpp(157): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-c:\users\lucas\source\repos\objtrack\opencvtry\opencvtry.cpp(154): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+c:\users\lucas\source\repos\objtrack\opencvtry\opencvtry.cpp(158): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
           with
           [
               _Ty=int
